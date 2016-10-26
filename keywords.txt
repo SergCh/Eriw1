@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Eriw1	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+skip	KEYWORD2
+search_init	KEYWORD2
+search	KEYWORD2
+crc8	KEYWORD2
+crcbit  KEYWORD2
+readRM  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
