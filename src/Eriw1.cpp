@@ -64,7 +64,7 @@ void Eriw1::write(uint8_t b){
 }
 
 void Eriw1::search_init(){
-  for (uint8_t i; i<8 ;i++)
+  for (uint8_t i=0; i<8 ;i++)
     addr[i]=0;
   tolastprev=-1;
 }
